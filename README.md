@@ -3,7 +3,7 @@
 ## Description
 760,607 Images - Vehicles Detection Data in Surveillance Scenes. The collection scenes include underground parking lot, surface parking lot, entrance and exit gates and outdoor roads (highways, urban roads, etc.). The data includes different surveillance scenes, different time periods, different cameras and various vehicle distributions (crowded, sparse). In this dataset, vehicles rectangular bounding boxes and vehicle type attributes were annotated. The data can be used for tasks such as vehicles detection in surveillance scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1219?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1219?source=Github
 
 
 ## Data size
